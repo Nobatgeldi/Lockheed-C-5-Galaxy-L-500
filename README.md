@@ -7,4 +7,4 @@ Lockheed C-5 Galaxy (L-500) mod for ArmA 3
 #
 The Lockheed C-5 Galaxy is a large military transport aircraft originally designed and built by Lockheed, and now maintained and upgraded by its successor, Lockheed Martin.
 #
-![GitHub Logo](http://www.likehdwallpaper.com/wp-content/uploads/Military/FTP1/1280x800/C-5%20Galaxy%20transport%20aircraft%20Wallpapers%201280x800.jpg)
+![GitHub Logo](http://i.imgur.com/GTPlo.png)
