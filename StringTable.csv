@@ -1,0 +1,18 @@
+﻿LANGUAGE, English, Russian
+
+STR_GALAXY_C5_NAME1, "Lockheed C-5 'Galaxy' (L-500)","Lockheed C-5 'Galaxy' (L-500)"
+
+STR_GALAXY_C5_OR, "Open Rear Cargo","Открыть заднюю рампу"
+STR_GALAXY_C5_CR, "Close Rear","Закрыть заднюю рампу"
+STR_GALAXY_C5_ON, "Open Nose","Открыть носовую часть"
+STR_GALAXY_C5_CN, "Close Nose","Закрыть носовую часть"
+STR_GALAXY_C5_PS, "Parachute Group","Высадка десанта"
+STR_GALAXY_C5_PC, "Parachute Cargo","Парашютный отсек"
+
+STR_GALAXY_C5_LC, "<t color='#e00000'>Load Cargo</t>","<t color='#e00000'>Закрепить технику</t>"
+STR_GALAXY_C5_UCA, "<t color='#e00000'>Unload Cargo (All)</t>","<t color='#e00000'>Разгрузка отсека</t>"
+STR_GALAXY_C5_UC, "<t color='#ffffff'>Unload Cargo</t>","<t color='#ffffff'>Открепить технику</t>"
+STR_GALAXY_C5_B, "Brakes","Тормоз"
+STR_GALAXY_C5_PARA, "Parachute Support","Парашютная поддержка"
+STR_GALAXY_C5_OP, "You are outside plane!","Вы не в самолете!"
+STR_GALAXY_C5_DESCR, "The Lockheed C-5 Galaxy is a large military transport aircraft built by Lockheed. It provides the United States Air Force (USAF) with a heavy intercontinental-range strategic airlift capability, one that can carry outsize and oversize cargos, including all air-certifiable cargo. The Galaxy has many similarities to its smaller C-141 Starlifter predecessor, and the later C-17 Globemaster. The C-5 is among the largest military aircraft in the world.","Локхид C-5 «Гэлэкси» (англ. Lockheed C-5 Galaxy) — американский стратегический военно-транспортный самолёт повышенной грузоподъёмности. До 1982 года — крупнейший серийный грузовой самолет в мире. Способен перевозить 6 вертолетов AH-64 Apache, 4 БМП M2 Брэдли, 6 БТР M1126/M1135 Страйкер или два танка M1 Abrams."

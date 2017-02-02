@@ -1,0 +1,6 @@
+if (!isServer) exitWith {}
+_plane = _this select 0
+
+[_plane] execvm "\galaxy_c5\scr\Vapour.sqf";
+#quit
+exit

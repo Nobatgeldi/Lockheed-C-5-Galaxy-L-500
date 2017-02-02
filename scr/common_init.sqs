@@ -1,0 +1,5 @@
+_plane = _this select 0
+
+#Skip
+[_plane] execVM "\galaxy_c5\scr\AircraftEffects.sqf"
+exit
