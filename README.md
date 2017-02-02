@@ -1,5 +1,6 @@
-# Lockheed-C-5-Galaxy-L-500-
-Lockheed C-5 Galaxy (L-500) mod for ArmA 3
+# Lockheed C-5 Galaxy (L-500) mod for ArmA 3
+
+Can carry 4 vehicles and can drop them when flying(parachute)
 #
 [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=K6922R75JMFTS)
 #
